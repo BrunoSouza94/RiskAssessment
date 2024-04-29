@@ -1,5 +1,5 @@
 ## Created as a solution for a technical test
-
+### Built with .NET 8
 To run the project, run the following at the solution directory:
 ```powershell
   dotnet build
